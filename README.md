@@ -7,7 +7,7 @@ BottomNavigationViewを設定を利用したタブ切り替えのアプリケー
 ホームタブではWebViewの表示
 設定タブではWebViewのURL,キャッシュ設定、ズーム倍率を変更することができます。
 
-https://user-images.githubusercontent.com/83757396/117525233-3d4ce100-affc-11eb-9954-94332f5dd975.png
+<img width="371" alt="screen" src="https://user-images.githubusercontent.com/83757396/117525340-bcdab000-affc-11eb-8e8b-2fd612846ee7.png">
 
 # Author
 
